@@ -1,5 +1,12 @@
+
+
+
 <nav id="navbar-main" class="navbar navbar-horizontal navbar-main navbar-expand-lg navbar-dark bg-primary">
+
+<div id="Wrapper">
+
      <div class="container">
+
        <a class="navbar-brand" href="main.php">
          <img src="./assets/img/logo_lan.png">
        </a>
@@ -25,7 +32,7 @@
          <ul class="navbar-nav mr-auto">
            <li class="nav-item">
              <a href="main.php" class="nav-link">
-               <span class="nav-link-inner--text">หน้าแรก</span>
+               <span class="nav-link-inner--text ">หน้าแรก</span>
              </a>
            </li>
            <li class="nav-item">
@@ -44,6 +51,34 @@
              </a>
            </li>
            <li class="nav-item">
+              <a class="nav-link" href="video_lesson.php" >
+             
+                <span class="nav-link-text">วิดีโอสื่อการสอน</span>
+              </a>
+           
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="test_all.php" >
+               
+                <span class="nav-link-text">แหล่งรวมข้อสอบ</span>
+              </a>
+           
+            </li>
+
+        
+
+        
+
+            <li class="nav-item">
+              <a class="nav-link" href="comment.php" >
+              
+                <span class="nav-link-text">สมุดเยี่ยมชม</span>
+              </a>
+           
+            </li>
+
+           <li class="nav-item">
              <a href="credit.php" class="nav-link">
                <span class="nav-link-inner--text">ผู้จัดทำ</span>
              </a>
@@ -54,3 +89,11 @@
        </div>
      </div>
    </nav>
+
+
+   <style>
+
+
+
+
+   </style>

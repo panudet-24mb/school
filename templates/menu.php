@@ -97,6 +97,14 @@
             </li>
 
             <li class="nav-item">
+              <a class="nav-link" href="summary_lesson_menu.php" >
+                <i class="ni ni-ungroup text-orange"></i>
+                <span class="nav-link-text">สรุปเนื้อหาแต่ละบท</span>
+              </a>
+
+            </li>
+
+            <li class="nav-item">
               <a class="nav-link" href="test_all.php" >
                 <i class="ni ni-collection text-red"></i>
                 <span class="nav-link-text">แหล่งรวมข้อสอบ</span>

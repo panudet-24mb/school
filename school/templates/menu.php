@@ -87,6 +87,38 @@
               </a>
            
             </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="video_lesson.php" >
+                <i class="ni ni-headphones text-pink"></i>
+                <span class="nav-link-text">วิดีโอสื่อการสอน</span>
+              </a>
+           
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="test_all.php" >
+                <i class="ni ni-collection text-red"></i>
+                <span class="nav-link-text">แหล่งรวมข้อสอบ</span>
+              </a>
+           
+            </li>
+
+        
+
+        
+
+            <li class="nav-item">
+              <a class="nav-link" href="comment.php" >
+                <i class="ni ni-like-2 text-green"></i>
+                <span class="nav-link-text">สมุดเยี่ยมชม</span>
+              </a>
+           
+            </li>
+
+
+
+
             <li class="nav-item">
               <a class="nav-link" href="credit.php">
                 <i class="ni ni-align-left-2 text-default"></i>

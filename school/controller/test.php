@@ -14,11 +14,11 @@ if ($is_pre_or_post == "post") {
 } else {
     $is_pre_or_post = "pre";
 }
-$total_score = 0; // คะแนนเริ่มต้น
-for ($i=0; $i < 10 ; $i++) { // การไล่ array ข้อแรก ไปยันข้อสุดท้าย
-  $Q[$i] = $_POST['Q'.$i]; // เช็คค่าของแต่ละข้อ
-  if ($Q[$i] == 1) { // ถ้าเกิดตอบถูก
-    $total_score++; // คะแนนก็จะบวก
+$total_score = 0;
+for ($i=0; $i < 10 ; $i++) { 
+  $Q[$i] = $_POST['Q'.$i];
+  if ($Q[$i] == 1) {
+    $total_score++;
   }
 }
 

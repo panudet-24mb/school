@@ -58,6 +58,16 @@
            
             </li>
 
+            
+            <li class="nav-item">
+              <a class="nav-link" href="summary_lesson_menu.php" >
+               
+                <span class="nav-link-text">สรุปเนื้อหาแต่ละบท</span>
+              </a>
+           
+            </li>
+
+
             <li class="nav-item">
               <a class="nav-link" href="test_all.php" >
                
